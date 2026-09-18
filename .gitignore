@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+*.csv
+
+# Compressed datasets / large files
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Trained model / serialized files
+*.pkl
+
+# Private university working documents
+dissertation/B01037079_Rebello-M.pdf
+dissertation/B01037079_Rebello-M.pdf.docx
+dissertation/Supporting Material Rebello_M_B01037079.pdf
+dissertation/Supporting Material.docx
+dissertation/hybrid recommendation draft.docx
+dissertation/hybrid recommendation.pptx
+dissertation/progress doc.docx

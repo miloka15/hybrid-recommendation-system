@@ -1,0 +1,13 @@
+{
+  "rmse": 1.006812993493219,
+  "mae": 0.7356177819989462,
+  "n_train": 69999,
+  "n_val": 15001,
+  "n_test": 15001,
+  "best_hyperparameters": {
+    "n_factors": 50,
+    "n_epochs": 30,
+    "lr_all": 0.01,
+    "reg_all": 0.05
+  }
+}
